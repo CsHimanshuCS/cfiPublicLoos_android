@@ -1,0 +1,7 @@
+<resources>
+    <string name="message_network_connection_error">Network Connection Error</string>
+    <string name="message_network_not_available">Network not available</string>
+
+    <string name="app_name">cfi</string>
+    <string name="action_settings">Settings</string>
+</resources>
